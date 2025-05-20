@@ -49,7 +49,7 @@ After inspecting the integrity of the data in each table, we started creating th
  <br/><br/>
 <img src="Visuals/avg_valuation_2.png" alt="Average Valuation by Industry" width="1200" style="display: block; margin: 0 auto">
 
-That's interesting, all three industries had 20 or fewer unicorns in both 2019 and 2020; however, in 2021, these numbers had a significant increase, being 138 for fintech, 119 for internet, and 47 for e-commerce. This increase has a direct impact on the average valuation of each industry since the great number of new unicorns with low valuations brings down their mean.
+That's interesting, all three industries had 20 or fewer unicorns in both 2019 and 2020; however, in 2021, these numbers had a significant increase, being 138 for fintech, 119 for internet, and 47 for e-commerce, for an average growth of 552.5% in the last year. This increase has a direct impact on the average valuation of each industry since the great number of new unicorns with low valuations brings down their mean.
 
 Next, we dug into the fintech industry to find their slowest-growing companies. The firm is interested in well-established businesses (more than 15 years) with funds larger than 300 million USD as a good alternative to invest in.
 
